@@ -107,9 +107,9 @@ A plataforma permite o gerenciamento completo de tarefas, com suporte a operaç�
 # Clone o repositório
 ```
 git clone https://github.com/thepedrodev/Manager-Tasks-API.git
-```
-cd Manager-Tasks-API
 
+cd Manager-Tasks-API
+```
 # Instale as dependências
 ```
 npm install
