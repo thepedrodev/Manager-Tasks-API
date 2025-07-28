@@ -1,5 +1,4 @@
 # Manager-Tasks-API
-# Manager Tasks API
 
 API REST para gerenciamento de tarefas, desenvolvida com Node.js, TypeScript e PostgreSQL.
 
